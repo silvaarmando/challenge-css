@@ -1,5 +1,5 @@
 html {
-  height: 100%;
+  height: 80%;
   font-family: Arial, sans-serif;
 
   display: grid;
@@ -8,7 +8,7 @@ html {
 
   /* variables - color palettes */
   --background: #fcfcfc;
-  --bakcground-panel: #ebebeb;
+  --background-panel: #ebebeb;
   --color-headings: #a23af8;
   --color-text: #333333;
 }
@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-  background-color: var(--bakcground-panel);
+  background-color: var(--background-panel);
 
   margin: 5em;
   padding: 5em;
