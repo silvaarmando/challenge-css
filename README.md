@@ -10,11 +10,7 @@
 <h2
   align="center"
 >
-<<<<<<< HEAD
   This code repository is for the 30 day CSS challenge
-=======
-  This code repository is for the 30 day CSS Challenge
->>>>>>> 72ca5d92e59b97d4898bd7b11c687b9d2fe8e876
 </h2>
 
 <br
