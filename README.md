@@ -19,7 +19,7 @@
 <h2
   align="center"
 >
-  DESAFIOS
+  CHALLENGES
 </h2>
 
 <h3
