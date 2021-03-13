@@ -10,5 +10,5 @@
 <h2
   align="center"
 >
-  This code repository is for the 30 day CSS CChallenge
+  This code repository is for the 30 day CSS Challenge
 </h2>
