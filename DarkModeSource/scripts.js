@@ -8,7 +8,7 @@ const getStyle = (element, style) =>
 
 const initialColors = {
   background: getStyle(html, "--background"),
-  backgroundPanel: getStyle(html, "--bakcground-panel"),
+  backgroundPanel: getStyle(html, "--background-panel"),
   colorHeadings: getStyle(html, "--color-headings"),
   colorText: getStyle(html, "--color-text"),
 }
